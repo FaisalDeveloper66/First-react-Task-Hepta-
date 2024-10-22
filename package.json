@@ -35,4 +35,11 @@
       "last 1 safari version"
     ]
   }
+
+  "homepage": "https://faisaldeveloper66.github.io/First-react-Task-Hepta-/"
+
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
 }
